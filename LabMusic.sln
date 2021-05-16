@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabMusic", "LabMusic.csproj", "{458D005D-B586-4582-9FF1-A66B02B41704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458D005D-B586-4582-9FF1-A66B02B41704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458D005D-B586-4582-9FF1-A66B02B41704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458D005D-B586-4582-9FF1-A66B02B41704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458D005D-B586-4582-9FF1-A66B02B41704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4817C630-9597-41C3-B183-998F926B96DD}
+	EndGlobalSection
+EndGlobal
